@@ -1,5 +1,5 @@
 <?php
-$arr = ['Good Morning!', 'Hello!', 'Good Night!'];
+$arr = ['Good Morning!', 'Hello!', 'Good Night!', 'Bad'];
 ?>
 <!DOCTYPE html>
 <html lang="ja">
