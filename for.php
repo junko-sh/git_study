@@ -7,7 +7,7 @@
 <body>
 <h1>git_study</h1>
 <?php
-for ($i=1; $i <= 10; $i++) {
+for ($i=1; $i <= 20; $i++) {
 	echo $i . '<br>';
 }
 ?>
